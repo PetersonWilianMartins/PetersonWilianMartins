@@ -1,5 +1,5 @@
 # 👨‍💻 Peterson Wilian
-**`Desenvolvedor Front-end`**
+**`Desenvolvedor`**
 
 
 Olá! Me chamo Peterson Wilian Martins, tenho 29 anos, sou natural de Curitiba–PR e atualmente moro em Jaraguá do Sul–SC.
@@ -123,5 +123,5 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-ori
   alt="GitHub Stats"
   height="200"
   style="padding-right: 10px;"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=PetersonWilianMartins&theme=tokyonight&layout=compact&custom_title=tecnologias&langs_cout=9
-  />
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=PetersonWilianMartins&theme=tokyonight&layout=compact&custom_title=tecnologias&langs_cout=9"
+/>
