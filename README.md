@@ -5,7 +5,7 @@
 **`Desenvolvedor`**
 
 
-Olá! Me chamo Peterson Wilian Martins, tenho 29 anos, sou natural de Curitiba–PR e atualmente moro em Jaraguá do Sul–SC.
+Olá! Sou Peterson Wilian Martins, tenho 29 anos, sou natural de Curitiba–PR e atualmente moro em Jaraguá do Sul–SC.
 Estou cursando Análise e Desenvolvimento de Sistemas pela Universidade Cesumar (UniCesumar).
 Atualmente também estou cursando formação complementar pelo SENAC, através do programa Jovem Programador, com foco em Programação de Sistemas e Desenvolvimento Web, entre outros conteúdos da área de tecnologia.
 Sou apaixonado por tecnologia e estou sempre em busca de novos conhecimentos para me desenvolver como profissional na área de desenvolvimento de software.
