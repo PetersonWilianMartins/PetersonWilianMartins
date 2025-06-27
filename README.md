@@ -74,8 +74,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-origi
 
 <img 
 align="left"
-alt="python"
-title="python"
+alt="Pyhon"
+title="Python"
 width="40px"
 style= "padding-right: 10px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
@@ -83,8 +83,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-ori
 
 <img 
 align="left"
-alt="typescript"
-title="typesript"
+alt="TypeScript"
+title="TypeSCript"
 width="40px"
 style= "padding-right: 10px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
@@ -92,8 +92,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typesc
 
 <img 
 align="left"
-alt="react"
-title="react"
+alt="React"
+title="React"
 width="40px"
 style= "padding-right: 10px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
