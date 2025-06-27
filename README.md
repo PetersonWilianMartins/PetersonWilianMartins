@@ -31,79 +31,79 @@ Sou apaixonado por tecnologia e estou sempre em busca de novos conhecimentos par
 align="left"
 alt="HTML"
 title="html"
-width="30px"
+width="40px"
 style= "padding-right: 10px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
 
 <img 
 align="left"
-alt="HTML"
-title="html"
-width="30px"
+alt="css"
+title="css"
+width="40px"
 style= "padding-right: 10px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
 />
 
 <img 
 align="left"
-alt="HTML"
-title="html"
-width="30px"
+alt="javascript"
+title="javascript"
+width="40px"
 style= "padding-right: 10px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
 />
 
 <img 
 align="left"
-alt="HTML"
-title="html"
-width="30px"
+alt="php"
+title="php"
+width="40px"
 style= "padding-right: 10px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"
 />
 
 <img 
 align="left"
-alt="HTML"
-title="html"
-width="30px"
+alt="mysql"
+title="MySql"
+width="40px"
 style= "padding-right: 10px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
 />
 
 <img 
 align="left"
-alt="HTML"
-title="html"
-width="30px"
+alt="python"
+title="python"
+width="40px"
 style= "padding-right: 10px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
 />
 
 <img 
 align="left"
-alt="HTML"
-title="html"
-width="30px"
+alt="typescript"
+title="typesript"
+width="40px"
 style= "padding-right: 10px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
 />
 
 <img 
 align="left"
-alt="HTML"
-title="html"
-width="30px"
+alt="react"
+title="react"
+width="40px"
 style= "padding-right: 10px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
 />
 
 <img 
 align="left"
-alt="HTML"
-title="html"
-width="30px"
+alt="vscode"
+title="vscode"
+width="40px"
 style= "padding-right: 10px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
 />
