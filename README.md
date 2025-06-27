@@ -110,10 +110,11 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-ori
 
 ### 📊 Estatisticas
 
+<p>
 <img
   align="left"
   alt="GitHub Stats"
-  height="200"
+  height="150"
   style="padding-right: 10px;"
   src="https://github-readme-stats.vercel.app/api?username=PetersonWilianMartins&show_icons=true&theme=tokyonight&include_all_commits-true&locale-pt-br"
 />
@@ -121,7 +122,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-ori
 <img
   align="left"
   alt="GitHub Stats"
-  height="200"
+  height="150"
   style="padding-right: 10px;"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=PetersonWilianMartins&theme=tokyonight&layout=compact&custom_title=tecnologias&langs_cout=9"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=PetersonWilianMartins&theme=tokyonight&layout=compact&custom_title=tecnologias&langs_cout=6"
 />
+</p>
