@@ -122,7 +122,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-ori
   />
 
   <img
-    align="right"
+    align="left"
     alt="GitHub Stats"
     height="180"
     style="padding-right: 10px;"
