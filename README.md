@@ -46,7 +46,7 @@ Olá! Me chamo **Peterson Wilian Martins**, tenho 29 anos, nasci em Curitiba–P
 ### 📊 Estatísticas no GitHub
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=PetersonWilianMartins&show_icons=true&theme=tokyonight&locale=pt-br" alt="GitHub Stats" width="350" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PetersonWilianMartins&show_icons=true&theme=tokyonight&locale=pt-br" alt="GitHub Stats" width="400" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PetersonWilianMartins&theme=tokyonight&layout=compact" alt="Top Linguagens" width="350" />
 </div>
 
