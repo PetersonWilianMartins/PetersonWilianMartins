@@ -2,13 +2,13 @@
 
 ---
 
-**`Desenvolvedor`**
+**Desenvolvedor em formação**
 
+Olá! Me chamo **Peterson Wilian Martins**, tenho 29 anos, sou natural de **Curitiba–PR** e atualmente moro em **Jaraguá do Sul–SC**.
 
-Olá! Sou Peterson Wilian Martins, tenho 29 anos, sou natural de Curitiba–PR e atualmente moro em Jaraguá do Sul–SC.
-Estou cursando Análise e Desenvolvimento de Sistemas pela Universidade Cesumar (UniCesumar).
-Atualmente também estou cursando formação complementar pelo SENAC, através do programa Jovem Programador, com foco em Programação de Sistemas e Desenvolvimento Web, entre outros conteúdos da área de tecnologia.
-Sou apaixonado por tecnologia e estou sempre em busca de novos conhecimentos para me desenvolver como profissional na área de desenvolvimento de software.
+🎓 Estou cursando **Análise e Desenvolvimento de Sistemas** pela UniCesumar  
+🚀 Faço também formação complementar no **SENAC** pelo programa **Jovem Programador**, com foco em desenvolvimento web e programação de sistemas.  
+💡 Sou apaixonado por tecnologia e estou sempre buscando novos conhecimentos para evoluir na área de desenvolvimento de software.
 
 <p>
   <a href="https://www.instagram.com/peterso_wilian" target="_blank">
@@ -17,115 +17,54 @@ Sou apaixonado por tecnologia e estou sempre em busca de novos conhecimentos par
   <a href="https://www.linkedin.com/in/petersonwilian" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.seusite.com" target="_blank">
+  <!-- Remova ou substitua pelo link real -->
+  <!-- <a href="https://www.seusite.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfólio-24292e?style=for-the-badge&logoColor=white" />
-  </a>
+  </a> -->
 </p>
 
 ---
 
-### 🤖Linguagens e tecnologias
+### 🚀 Tecnologias e Ferramentas
 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" alt="PHP" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VSCode" />
+</div>
+
+
+<br/>
+
+---
+
+### 📊 Estatísticas GitHub
 
 <img 
-align="left"
-alt="HTML"
-title="html"
-width="40px"
-style= "padding-right: 10px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+  align="left" 
+  height="180" 
+  src="https://github-readme-stats.vercel.app/api?username=PetersonWilianMartins&show_icons=true&theme=tokyonight&locale=pt-br"
 />
 
 <img 
-align="left"
-alt="css"
-title="css"
-width="40px"
-style= "padding-right: 10px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
+  align="left" 
+  height="180" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=PetersonWilianMartins&theme=tokyonight&layout=compact"
 />
 
-<img 
-align="left"
-alt="javascript"
-title="javascript"
-width="40px"
-style= "padding-right: 10px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
-/>
+<br><br><br><br><br><br><br><br>
 
-<img 
-align="left"
-alt="php"
-title="php"
-width="40px"
-style= "padding-right: 10px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"
-/>
+---
 
-<img 
-align="left"
-alt="mysql"
-title="MySql"
-width="40px"
-style= "padding-right: 10px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
-/>
+### ✉️ Contato
 
-<img 
-align="left"
-alt="Pyhon"
-title="Python"
-width="40px"
-style= "padding-right: 10px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
-/>
+Você pode me encontrar por aqui ou em outras redes sociais para colaborações, freelas ou simplesmente trocar ideias sobre tecnologia!
 
-<img 
-align="left"
-alt="TypeScript"
-title="TypeSCript"
-width="40px"
-style= "padding-right: 10px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
-/>
-
-<img 
-align="left"
-alt="React"
-title="React"
-width="40px"
-style= "padding-right: 10px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
-/>
-
-<img 
-align="left"
-alt="vscode"
-title="vscode"
-width="40px"
-style= "padding-right: 10px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
-/>
-
-<br>
-<br>
-
-### 📊 Estatisticas
-
-  <img
-    align="left"
-    alt="GitHub Stats"
-    height="180"
-    style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api?username=PetersonWilianMartins&show_icons=true&theme=tokyonight&include_all_commits-true&locale-pt-br"
-  />
-
-  <img
-    align="left"
-    alt="GitHub Stats"
-    height="200"
-    style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=PetersonWilianMartins&theme=tokyonight&layout=compact&custom_title=tecnologias&langs_cout=7"
-  />
+---
 
